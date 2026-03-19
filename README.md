@@ -15,6 +15,8 @@ This information asymmetry means passengers routinely overpay without ever reali
 
 **RideWise solves this.** It is a decision intelligence system — not just a predictor — that estimates what a fair fare *should* be, detects when actual fares deviate from that expectation, explains *why*, and actively suggests smarter alternatives.
 
+![What i am solving](idea.png)
+
 ---
 
 ## 💡 What Makes This Different
