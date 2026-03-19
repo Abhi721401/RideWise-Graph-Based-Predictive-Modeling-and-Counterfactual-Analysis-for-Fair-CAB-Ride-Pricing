@@ -1,4 +1,4 @@
-# RideWise-Graph-Based-Pricing-Fairness-Counterfactual-Intelligence-Engine
+# RideWise: Graph-Based Predictive Modeling and Counterfactual Analysis for Fair CAB Ride Pricing
 > *Built by Abhijnan Das | M.Sc. Statistics*
 
 ---
